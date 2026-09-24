@@ -1,0 +1,6 @@
+{
+  "name": "KRMT - Collegiate Pulse",
+  "description": "The official K.R. Mangalam University campus social network for students, clubs, and faculty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
